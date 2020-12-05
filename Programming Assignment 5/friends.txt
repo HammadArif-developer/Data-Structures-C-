@@ -1,0 +1,66 @@
+PEOPLE
+George 
+Amanda 
+Babar 
+Hadi 
+Pence 
+Perry 
+Trump 
+Nawaz 
+Noor 
+Mannan 
+Hillary 
+Dawood 
+Ali 
+Ellie 
+Aqsa 
+Ariana 
+Justin 
+Aziz 
+Michael 
+Hasan 
+CONNECTIONS
+George Amanda 3
+George Trump 5
+George Michael 9
+George Ali 7
+George Dawood 3
+Ellie Trump 6
+Justin Pence 1
+Perry Hillary 2
+Amanda Michael 1
+Pence Hadi 5
+Nawaz Aqsa 3
+Noor Perry 6
+Noor Hasan 8
+Michael Aziz 4
+Amanda Aziz 3
+Hadi Mannan 1
+Perry Aziz 7
+Amanda Dawood 4
+George Aqsa 3
+George Nawaz 2
+George Hadi 2
+George Pence 5
+Amanda Hadi 10
+Amanda Pence 6
+Dawood Hasan 5
+Dawood Aqsa 8
+Aqsa Hadi 5
+Aqsa Pence 6
+Pence Nawaz 9
+Ellie Nawaz 10
+Ellie Dawood 9
+Ellie Ariana 2
+Ariana Babar 3
+Ariana Mannan 3
+Ariana Hillary 4
+Aziz Noor 6
+Dawood Noor 4
+Ali Dawood 3
+Ali Ellie 6
+Michael Dawood 5
+Nawaz Hasan 3
+Aqsa Ariana 5
+Hasan Hillary 6
+Perry Ariana 6
