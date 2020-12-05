@@ -1,2 +1,2 @@
-# Data-Structures-C-
+# Data-Structures-C++-
 CS202 Data Structures Assignments
